@@ -1,1 +1,1 @@
-# This script demonstrates how conditionals can be used to assess and apply appropriate discounts to sale prices. It also shows how comments can be used to maintain organization by noting what certain code blocks should be doing.
+#This script demonstrates how conditionals can be used to assess and apply appropriate discounts to sale prices. It also shows how comments can be used to maintain organization by noting what certain code blocks should be doing.
